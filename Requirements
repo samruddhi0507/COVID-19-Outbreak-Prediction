@@ -3,18 +3,18 @@
 1 .iso code                            
 2. location                           
 3. date                               
-4. total_cases                       
+4. totalc ases                       
 5. new cases                         
 6. total deaths                       
-7. new_ eaths                         
+7. new  eaths                         
 8. total cases per million             
 9. new cases per million               
 10. total deaths per million            
-11. new_deaths_per_million              
-12. total_tests                         
-13. new_tests     
-14. total_tests_per_thousand            
-15. new_tests_per_thousand              
+11. new_deaths_per million              
+12. total tests                         
+13. new tests     
+14. total tests per thousand            
+15. new tests per thousand              
 16. new_tests_smoothed                  
 17. ew_tests_smoothed_per_thousand     
 18. tests_units                         
